@@ -69,13 +69,16 @@ RegisterNumber: 22005596
 Logic symbol & Truthtable
 
 
-![model](/ALL_LOGIC_GATE.jpg)
+![ALL_LOGIC_GATE](https://user-images.githubusercontent.com/118348224/209703667-b1823f1e-8f25-4a64-a9af-9f9646654a73.jpg)
+
 
 
 RTL realization output:
 
 
-![model](/abc.jpg)
+![abc](https://user-images.githubusercontent.com/118348224/209703755-70846d03-7137-4c73-9c89-43ce9170fabd.jpg)
+
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
