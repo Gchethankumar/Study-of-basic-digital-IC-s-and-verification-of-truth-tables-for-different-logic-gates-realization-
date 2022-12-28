@@ -76,6 +76,7 @@ xnor(y7,a,b);
 endmodule 
 ```
 Output:
+
 Logic symbol & Truthtable
 
 
