@@ -75,7 +75,7 @@ nor(y6,a,b);
 xnor(y7,a,b);
 endmodule 
 ```
-
+Output:
 Logic symbol & Truthtable
 
 
@@ -83,7 +83,7 @@ Logic symbol & Truthtable
 
 
 
-RTL realization output:
+RTL realization:
 
 
 ![abc](https://user-images.githubusercontent.com/118348224/209703755-70846d03-7137-4c73-9c89-43ce9170fabd.jpg)
