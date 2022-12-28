@@ -60,7 +60,6 @@ Check all the gates following the same procedure.
 
 Program:
 ```
-/*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: G.Chethan kumar
 RegisterNumber: 22005596
@@ -75,7 +74,6 @@ nand(y5,a,b);
 nor(y6,a,b);
 xnor(y7,a,b);
 endmodule 
-*/
 ```
 
 Logic symbol & Truthtable
